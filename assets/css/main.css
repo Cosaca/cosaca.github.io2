@@ -2183,6 +2183,7 @@
 
 			#main > section.one {
 				background-color: #C0C0C0;
+				background-image: url("../../images/cabecera.png");
 			}
 
 			#main > section.two {
